@@ -1,3 +1,4 @@
+##test-comment:
 cd /etc
 if [ -f environment.bak ]; 
 then
